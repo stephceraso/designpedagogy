@@ -5,6 +5,101 @@ property: value;
 }
 */
 
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 html {
-  font-family: "Helvetica", sans-serif;
+  font: 16px/1.5 "Helvetica", sans-serif;
+  color: rgba(0,0,0,.75);
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  margin-bottom:0;
+}
+h2 + p {
+  margin-top: 1rem;
+}
+
+p + h2 {
+  margin-top: 2rem;
+}
+
+figure.quote {
+  margin: 3rem 0;
+  font-style:italic;
+  color: rgba(0,0,0,.7);
+  font-size: .8rem;
+  border-left: .25rem solid rgba(0,0,0,.125);
+  padding-left: 1rem;
+}
+
+.quote blockquote {
+  margin-left:0;
+}
+
+.quote figcaption {
+  font-style:normal;
+}
+
+.quote figcaption p:before {
+  content: "—";
+  color: rgba(0,0,0,.25);
+}
+
+header {
+  border-bottom: 1px solid rgba(0,0,0,.075);
+  padding: .5rem 0;
+}
+
+header h1 {
+  font-size: 1rem;
+}
+
+nav {
+  font-size: .8rem;
+  padding: .5rem 0;
+}
+
+nav a {
+  text-decoration:none;
+  font-weight: bold;
+}
+
+nav a + a:before {
+  content: " / ";
+  padding: 0 .25rem;
+  color: rgba(0,0,0,0.2);
+}
+
+nav a:link,
+nav a:visited {
+  color: rgba(0,0,0,.5);
+}
+
+nav a:hover,
+nav a:focus {
+  color: rgba(0,0,0,0.7);
+}
+
+nav a:active {
+  color: rgba(0,0,0,.9);
+}
+
+/* Utility Classes */
+.audible {
+  border: 0;
+
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }
