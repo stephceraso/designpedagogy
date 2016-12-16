@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en" class="{% if page.url == '/' %}home{% else %}{{ page.url | slugify }}{% endif %}">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 <link rel="stylesheet" href="/styles.css">
@@ -7,14 +8,15 @@
   <h1>{{ site.title }}</h1>
 </header>
 <nav id="global-navigation">
-  <a id="link-intro" href="/index.html">Introduction</a>
-  <a id="link-frames-for-work" href="/frames-for-work.html">Frame(s for) Work</a>
-  <a id="link-high-impact" href="/high-impact.html">High Impact</a>
-  <a id="link-collaboration" href="/collaboration.html">Collaboration</a>
-  <a id="link-diy-learning" href="/diy-learning.html">DIY Learning</a>
-  <a id="link-ecological" href="/ecological.html">Ecological</a>
-  <a id="link-conclusions" href="/conclusions.html">Conclusions</a>
+  <a id="link-intro" href="/">Introduction</a>
+  <a id="link-frames-for-work" href="/frames-for-work/">Frame(s for) Work</a>
+  <a id="link-high-impact" href="/high-impact/">High Impact</a>
+  <a id="link-collaboration" href="/collaboration/">Collaboration</a>
+  <a id="link-diy-learning" href="/diy-learning/">DIY Learning</a>
+  <a id="link-ecological" href="/ecological/">Ecological</a>
+  <a id="link-conclusions" href="/conclusions/">Conclusions</a>
 </nav>
 <main role="main" id="main">
 {{ content }}
 </main>
+</html>
