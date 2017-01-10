@@ -3,9 +3,9 @@ layout: page
 title: Conclusions
 ---
 
-Based on our observations of four studios, we believe that design pedagogy represents one productive future from the current postpedagogical moment. We believe so, in part, because design pedagogy speaks to the most recent and pressing concerns of rhet/comp, like collaboration, public engagement, and materiality, but also because it promises to re-connect us to valuable but neglected traditions, too. 
+Based on our observations of four studios, we believe that design pedagogy represents one productive future of the current postpedagogical moment. We believe so, in part, because design pedagogy speaks to the most recent and pressing concerns of rhet/comp—like collaboration, public engagement, and materiality—but also because it promises to re-connect us to valuable but neglected traditions. 
 
-In 2003, David Fleming argued that the time for the progymnasmata “has come (again)” (118). The “very idea” of the progymnasmata, if not their specific practices from ancient times, deserves serious re-consideration, Fleming believes, because it is “devoted to the development in students of a particular set of verbal habits and dispositions” (113). In his formulation, the progymnasmata result from, “the attempt to make of rhetoric not just a theory or art or an historical and cultural artifact or a sociocognitive process but rather a complete and developmentally attuned curriculum in written and spoken discourse, a multicourse program of language instruction whose end product is neither a text nor a skill nor some body of knowledge but a set of deep-seated verbal habits and dispositions oriented to public effectiveness and virtue” (114). For Fleming, the progymnasmata are still valuable as curricular models for five of their features in particular:
+In 2003 David Fleming argued that the time for the progymnasmata, the series of rhetorical excercies for students developed by ancient Greek rhetoricians, “has come (again)” (118). The “very idea” of the progymnasmata, if not their specific practices from ancient times, deserves serious re-consideration, Fleming believes, because it is “devoted to the development in students of a particular set of verbal habits and dispositions” (113). In his formulation, the progymnasmata result from “the attempt to make of rhetoric not just a theory or art or an historical and cultural artifact or a sociocognitive process but rather a complete and developmentally attuned curriculum in written and spoken discourse, a multicourse program of language instruction whose end product is neither a text nor a skill nor some body of knowledge but a set of deep-seated verbal habits and dispositions oriented to public effectiveness and virtue” (114). For Fleming, the progymnasmata are still valuable as curricular models for five of their features in particular:
 
 - The way students work on elements of larger tasks rather than tackling the full-scale of a project all at once (115).
 - The focus on “pegs” on which to hang “verbal and ideational material” (116).
@@ -13,29 +13,29 @@ In 2003, David Fleming argued that the time for the progymnasmata “has come (a
 - That thoughtful ordering of activities (116).
 - The aim of integration across learning (117).
 
-While instructional methods and curricular and pedagogical design in rhetoric and composition have moved away from the style of the progymnasmata, it may be that something like the original intentions and effects of the progymnasmata live on in the pedagogical methods of design studios. After all, the studios we observed enacted every one of these features, albeit in diverse frames-for-work: students move through scaffolded activities both within the timeframe of single semesters as well as on the scale of entire degree programs; the material and conceptual spatialization of knowledge; the sheer diversity of both tasks and possibilities for work; and, lastly, but perhaps most importantly, the integration of many forms of knowledge and modes of work -- scaffolding in this style of approach does not mean overt de-contextualization or an assertion of a rigid process, so much as focusing first on smaller scale, discrete (but only for the moment) tasks while maintaining mindfulness of larger contexts.
+While instructional methods and curricular and pedagogical design in rhetoric and composition have moved away from the style of the progymnasmata, it may be that something like the original intentions and effects of the progymnasmata live on in the pedagogical methods of design studios. After all, the studios we observed enact every one of these features, albeit in diverse frames-for-work: they ask students to move through scaffolded activities both within the timeframe of single semesters as well as on the scale of entire degree programs; they emphasize embodied, material, spatial ways of learning and knowing; they embrace diversity in terms of project tasks and possibilities; and, lastly, but perhaps most importantly, they encourage the integration of many forms of knowledge and modes of work. Scaffolding in this style of approach does not mean overt de-contextualization or an assertion of a rigid process so much as focusing first on smaller scale, discrete (but only for the moment) tasks while maintaining mindfulness of larger contexts and goals.
 
-We think there’s value in connecting the dots between the historical intentions and methods of the progymnasmata with the questions asked by postpedagogy, and the methods and materials of design studio education. And so, with the cautious optimism appropriate to experimentation of this kind, which is high stakes to be sure, we offer our recommendations and warnings about experimenting with studio methods. In the spirit of such things, we ask that all of these be taken as starting points rather than conclusive in any way. Nudges...changes of trajectory
-
----
-
-Assemble your own frame-for-work by surveying the landscape of affordances and constraints in your class and on your campus, but make sure it enacts interaction that is, in some ways, high impact, collaborative, DIY, and engaged materially. The F4W represent different ways to arrange what we’re calling the four features of design pedagogy. And it’s tempting to say that our classes will benefit if we simply pick and choose from these four features to infuse new practices, but we don’t think that’s quite true. We believe that together these four features coalesce to a productive degree of complexity that only a couple of which together do not. So, don’t just create a more collaborative classroom: create a frame-for-work that is collaborative, diy, high impact, and materially-engaged.
-
-●	Involve campus partners or community partners or commercial partners, systematically or through students’ own initiative.
-●	Craft student team projects or individual projects, but make sure that students that interact with each other in a variety of arrangements and modes.
-●	Allow for and expect that students will have to seek out knowledge in order to complete their project -- that it won’t all come from you or the assigned readings or research in the library -- and communicate these expectations.
-●	Make sure that students don’t only write in a writing or rhetoric class -- they should also be drawing, jotting and arranging ludicrous numbers of post-it notes, painting, building, coding, and so on.
+We think there is value in connecting the dots between the historical intentions and methods of the progymnasmata with the questions asked by postpedagogy, and the methods and materials of design studio education. And so, with the cautious optimism appropriate to experimentation of this kind, we offer our recommendations and warnings about experimenting with studio methods. These are intended to be starting points rather conclusive statements. Nudges...changes of trajectory. Marilyn Cooper, "Being Linked to the Matrix." 
 
 ---
 
-Talk about process in a new way. In spite of the coming (and maybe passing) of the postprocess moment, most of us in the field probably never stopped invoking the importance of process in some fashion or another. We recommend understanding your course design as a kind of spatialized scaffolding -- “this kind of work will happen here; this other kind will happen over here” -- but with a diversity of processes across individuals and teams that we collectively understand to be the way of the world. 
+1. Assemble your own frame-for-work by surveying the landscape of affordances and constraints in your class and on campus, but make sure it facilitates interaction that is, in some ways, high impact, collaborative, DIY, and materially-engaged. Developing frames-for-work involve different configurations of what we are calling the four features of design pedagogy. While it is tempting to say that our classes will benefit if we simply pick and choose from a couple of these features to inform new pedagogical practices, we do not think that is true. Rather, in order to acheive a productive and well-designed learning environment, all four features must be integrated into the course's design. Here are potentially useful ideas to consider when constructing frames-for-work: 
 
-We’ve begun to see design process depictions appear in higher education contexts, but like the progymnasmata, or Fleming’s version of it anyway, we struggle to see process as staged and scaffolded and always looping unpredictably -- like the Squiggle -- but not rigid and therefore brittle.
+●	Involve campus partners, community partners, or commercial partners, either by design or through students’ own initiative.
+●	Craft projects and assignments in ways that give students a chance to interact with each other in a variety of arrangements and modes.
+●	Allow for and expect that students will have to seek out knowledge in order to complete their project -- that it will not all come from you or the assigned readings or even from research in the library -- and communicate these expectations.
+●	Make sure that writing is not the only activity in a writing or rhetoric class; students should also be drawing, taking pictures, recording audio and video, arranging and experimenting with materials, building, coding, and so on.
+
+---
+
+2. Talk about process in a new way. In spite of the coming (and perhaps passing) of the postprocess moment, most of us in the field have never stopped invoking the importance of process in some fashion or another. We recommend understanding your course design as a kind of spatialized scaffolding -- “this kind of work will happen here; this other kind will happen over here” -- but with a diversity of processes across individuals and teams. 
+
+We have begun to see design process depictions appear in higher education contexts, but these depictions often fail to represent process as staged and scaffolded in complex, iterative and unpredictable ways -- like the Squiggle -- but not rigid and therefore brittle.
 
  
 (P Kittle 4Cs 2016)
 
-Some depictions of process emerging now mirror the design process to the writing process, such as [this dude’s talk at 4Cs in 2016). While we appreciate this effort to “design-ify” process, this set of steps still represents a more or less linear, chronological sequence. In other words, renaming the steps in a traditional process model does not transform that model, and therefore it still represents what postprocess theories critique about traditional process. 
+For example, as illustrated in this 4C's 2016 talk, depictions of process often attempt to map the design process directly onto the writing process. While we appreciate this effort to “design-ify” process, this set of steps still represents a more or less linear, chronological sequence. In other words, renaming the steps in a traditional process model does not transform that model, and therefore it still represents what postprocess theories critique about traditional process. 
 
   
 
@@ -51,7 +51,7 @@ I define design as the ‘constructive process’ by which the imagination takes
 
 ---
 
-Model the dispositions that we hope to cultivate in students. One possible set of such dispositions are the 8 Studio Habits of Mind, published in Studio Thinking (2007, Lois Hetland, Ellen Winner, Shirley Veenema, Kimberly M. Sheridan), and part of Harvard’s Project Zero.
+3. Model the dispositions that we hope to cultivate in students. One possible set of such dispositions are the 8 Studio Habits of Mind, published in Studio Thinking (2007, Lois Hetland, Ellen Winner, Shirley Veenema, Kimberly M. Sheridan), and part of Harvard’s Project Zero.
 
   
 [Image from https://www.teachingchannel.org/blog/2015/03/03/8-habits-of-thinking/]
@@ -65,14 +65,14 @@ Desiging spaces for students to design, in other words, will help us to cultivat
 
 ---
 
-Keep ethics at the center of design approaches, Part 1. While terms like design, studio, design-thinking, hacking, making, craft, makerspaces are often used interchangeably, they are not the same things. These terms have very different histories, practices, purposes, and ideologies.
+4. Keep ethics at the center of design approaches, Part 1. While terms like design, studio, design-thinking, hacking, making, craft, makerspaces are often used interchangeably, they are not the same things. These terms have very different histories, practices, purposes, and ideologies.
 
 For example, design thinking, for many academics, evokes an association with the corporate, for-profit world of start-ups. Sometimes that’s enough to repel interest, but not always. In his keynote at the 2016 Watson conference, for instance, Scott Wible discussed how he uses design practices to connect his students to local community projects (e.g. non-profits) as opposed to using it for more business-minded, profit-making efforts. By doing so, Wible echoes our field’s longstanding commitment to “service learning” and engaged public work. In this case, then, design thinking could be a way to energizing existing pedagogical service models and opportunities. 
 
 
 ***********************************************************************************************************
 
-Keep ethics at the center of design approaches, Part 2. Makerspaces, as seen through research such as that done by Ann Shivers-McNair, often trumpet their progressive, bottom-up political orientations. They want to be free spaces for creativity, community centers for non-hierarchical productivity. But as Shivers-McNair notes, they are also predominantly white, male spaces. 
+5. Keep ethics at the center of design approaches, Part 2. Makerspaces, as seen through research such as that done by Ann Shivers-McNair, often trumpet their progressive, bottom-up political orientations. They want to be free spaces for creativity, community centers for non-hierarchical productivity. But as Shivers-McNair notes, they are also predominantly white, male spaces. 
 http://www.digitalrhetoriccollaborative.org/2016/03/17/what-can-we-learn-about-writing-and-rhetoric-from-a-makerspace/
 
 For example, in Neil Rothman’s mechanical engineering class at UMBC we encountered a large white male majority, seemingly a perpetuation of the patterns observed by Shivers-McNair (and others). Even at a school that is known for its diverse STEM program, problems with diversity in design persist. Diversity in design spaces, based on what we’ve read and observed, is perhaps getting better but there’s a long way to go for them to be truly inclusive.
