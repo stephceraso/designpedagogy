@@ -28,9 +28,9 @@ Assemble your own frame-for-work by surveying the landscape of affordances and c
 
 ---
 
-Talk about process in a new way. In spite of the coming (and perhaps passing) of the postprocess moment, most of us in the field have never stopped invoking the importance of process in some fashion or another. We recommend understanding your course design as a kind of spatialized scaffolding -- “this kind of work will happen here; this other kind will happen over here” -- but with a diversity of processes across individuals and teams. 
+Talk about process in a new way. In spite of the coming (and perhaps passing) of the postprocess moment, most of us in the field have never stopped invoking the importance of process in some fashion or another. We recommend understanding your course design as a kind of non-linear, flexible scaffolding as opposed to a straightforward series of tasks. This is not to say that predetermined tasks do not exist; rather, teams rearrange and remix tasks according to their own system of working.
 
-We have begun to see design process depictions appear in higher education contexts, but these depictions often fail to represent process as staged and scaffolded in complex, iterative, and unpredictable ways -- ways that might mirror the drawing of the squiggle that Arjun Dhillon uses to explain his studio approach. [maybe link back to that here]
+We have begun to see design process depictions appear in higher education contexts, but these depictions often fail to represent process as staged and scaffolded in complex, iterative, and unpredictable ways -- ways that might mirror the drawing of the squiggle that Arjun Dhillon uses to explain his studio approach. [maybe link back to that here] change to more positive language/reframing of kittle example: three interesting models of design pedagogy from recent conferences. the first...one thing it does that the other images do not is include release and community...
 
  
 (P Kittle 4Cs 2016)
@@ -41,7 +41,7 @@ For example, this powerpoint slide (from a 2016 CCCC presentation) is representa
 
 These two examples, one depicting writing processes and one depicting design thinking processes, make important improvements on the prior depiction. Here process is represented as ambiguous, plural, and -- maybe most importantly -- recursive. In each case, students will see these images and realize quickly that their individual process (the “how I  work”) will not emerge until they are in up to their elbows. That is...
 
-And remember, the Squiggle from EthicsLab. For it’s faults -- the worst of which potentially is the blackboxing of XYZ -- its virtue remains similar to the above two examples. In each, process is something that we must talk about, but which we can never fully know ahead of time.
+And remember, the Squiggle from EthicsLab. For it’s faults -- the worst of which potentially is the blackboxing of XYZ -- its virtue remains similar to the above two examples. In each, process is something that we must talk about, but which we can never fully know ahead of time. recursivity; can't be plotted ahead; not knowing; blackboxing the ordered steps or stages of work because it's up to the students; can be frustrating for them
 
 Engaging with students in process-talk but in a design-savvy, plural sense will help empower them.  As APJ puts it:
 I define design as the ‘constructive process’ by which the imagination takes on problems, frames them, models them, and creates response through the distribution of material -- real or virtual material -- in space. And design thinking is the same process, but where the product may be thought itself -- conceptual, strategic, structural, or systemic in nature. The beauty of the design process is its non-linearity. Instead, reason as nascent structure, dependent on feedback procedures creates a way of engaging complexity, richness, and the seemingly paradoxical or irresolvable, even, so as to build material stories or conceptual systems in which these are given meaning and form” (10).
@@ -91,7 +91,9 @@ This statement rung true in our field research observations. In Neil Rothman’s
 We want to suggest that one way our field might contribute to improving the inclusivity of design spaces is to bring design approaches to a general education student population. Pavesich’s class in the Studio Collaborative, for example, is an introduction to rhetoric course that satisfies a general education requirement. The students in this class, that is, are not yet segregated by historical patterns of major or specialization. Students -- of all backgrounds -- simply sign up and find themselves immersed in a design experience. We believe that by infusing design approaches into general education classes such as First Year Writing in a range of different institutional contexts, our field can begin the work of breaking down the historical exclusivity of these modes of work and workspaces.
 
 
-Designing Future(s)
+Future Designs?
 
-After doing this research, we were struck most by the fact that many instructors of writing and rhetoric already embrace some aspects—to some degree—of the design pedagogy we have laid out. What we hope this work amplifies, however, is the need for more deliberate, explicit, integrated studio approaches in our field. The case studies (and accompanying media and materials) we have provided offer examples of how design approaches have worked successfully outside of the humanities. Something about how rhet/comp can contribute to design pedagogy as well (perhaps with our pedagogical expertise?) 
+After doing this research, we were struck most by the fact that many instructors of writing and rhetoric already embrace some aspects—to some degree—of the design pedagogy we have laid out. What we hope this work amplifies, however, is the need for more deliberate, explicit, integrated studio approaches in our field. The case studies (and accompanying media and materials) we have provided offer examples of how design approaches have worked successfully outside of the humanities. 
+
+We see design pedagogy as one useful response to the questions raised by postprocess theory. Design pedagogy pulls together a number of threads from scholarship in our field--ecology, affect, materiality, public writing, etc.--and makes space for those threads in the classroom in dynamic ways. perhaps pull in Cooper quote [Boyle's CE article: nudging 538]; see if I can echo any language from the introduction
 
