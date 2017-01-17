@@ -41,7 +41,7 @@ Engaging with students in process-talk but in a design-savvy, plural sense will 
 
 Model the dispositions that you hope to cultivate in students. One possible set of such dispositions are the "8 Studio Habits of Mind," which are published in Studio Thinking (2007, Lois Hetland, Ellen Winner, Shirley Veenema, Kimberly M. Sheridan) and part of Harvard’s Project Zero (cite).
 
-8 Studio Habits of Mind (excerpt from https://www.teachingchannel.org/blog/2015/03/03/8-habits-of-thinking/)
+8 Studio Habits of Mind (excerpt from Rankine-Landers, "8 Habits")
 
 1. Develop Craft: Learning to use tools, materials, artistic conventions; and learning to care for tools, materials, and space.
 
