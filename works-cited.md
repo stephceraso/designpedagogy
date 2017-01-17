@@ -53,6 +53,8 @@ Purdy, James P. “What Can Design Thinking Offer Writing Students?” _CCC_ 65.
 Prins, Kristin. “Crafting New Approaches to Composition.” _Composing (Media) = Composing
 (Embodiment): Bodies, Technologies, Writing, the Teaching of Writing_. Eds. Kristin L. Arola & Anne Frances Wysocki. Logan, UT: Utah State University Press, 2012. 145–61. [not sure if this is the right citation for her]
 
+Rankine-Landers, Mariah. "8 Habits of Thinking Learned from Artists." _Teaching Chanel_. 3 March 2015. Web. 17 Jan. 2017. <https://www.teachingchannel.org/blog/2015/03/03/8-habits-of-thinking/>. 
+
 Rice, Jenny. “Para-Expertise, Tacit Knowledge, and Writing Problems.” _College English_ 78.2
 (2015): 117-138.
 
