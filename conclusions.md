@@ -21,10 +21,10 @@ We think there is value in connecting the dots between the historical intentions
 
 Assemble your own frame-for-work by surveying the landscape of affordances and constraints in your class and on campus, but make sure it facilitates interaction that is in some ways high impact, collaborative, DIY, and materially-engaged. Developing frames-for-work involve different configurations of what we are calling the four features of design pedagogy. While it is tempting to say that our classes will benefit if we simply pick and choose from a couple of these features to inform new pedagogical practices, we do not think that is the case. Rather, in order to acheive a rich, well-designed learning environment, all four features must be integrated into the course's design. Here are some possibiltiies to consider when constructing frames-for-work: 
 
--Involve campus partners, community partners, or commercial partners, either by design or through students’ own initiative.
--Craft projects and assignments in ways that give students a chance to interact with each other in a variety of arrangements and modes.
--Allow for and expect that students will have to seek out knowledge in order to complete their project -- that it will not all come from you or the assigned readings or even from research in the library -- and communicate these expectations.
--Make sure that writing is not the only activity in a writing or rhetoric class; students should also be drawing, taking pictures, recording/editing audio and video, arranging and experimenting with materials, building, coding, and so on.
+- Involve campus partners, community partners, or commercial partners, either by design or through students’ own initiative.
+- Craft projects and assignments in ways that give students a chance to interact with each other in a variety of arrangements and modes.
+- Allow for and expect that students will have to seek out knowledge in order to complete their project -- that it will not all come from you or the assigned readings or even from research in the library -- and communicate these expectations.
+- Make sure that writing is not the only activity in a writing or rhetoric class; students should also be drawing, taking pictures, recording/editing audio and video, arranging and experimenting with materials, building, coding, and so on.
 
 ---
 
@@ -78,7 +78,7 @@ We want to suggest that one way our field might contribute to improving the incl
 
 After doing this research, we were struck by the fact that many instructors of writing and rhetoric already embrace *some* aspects—to *some* degree—of the design pedagogy we have laid out. What we hope our work amplifies, however, is the need for more deliberate, explicit, integrated studio approaches in our field. Indeed, we see design pedagogy as one useful response to the questions raised by postprocess theory. Design pedagogy pulls together a number of threads that are already valued in our disciplinary scholarship--ecology, affect, materiality, public engagement--and makes use of those threads in the classroom in creative, dynamic ways. In this sense, design pedagogy provides us with the opportunity to productively bring together the theoretical and practical in our curricula and course designs. 
 
-We began this essay with Paul Lynch's provocative question: "Is teaching still possible?" As we have attempted to illustrate, design pedagogy moves away from authoratative models and redefines teaching as a practice that involves designing experiences and environments in which significant learning can take place. We believe that teaching is still possible if we can learn to think as designers--as architects of learning experiences.  
+We began this essay with Paul Lynch's provocative question: "Is teaching still possible?" As we have attempted to illustrate, design pedagogy moves away from authoratative models and redefines teaching as a practice that involves designing environments in which significant learning can take place. We believe that teaching is still possible if we can learn to think as designers--as architects of learning experiences.  
 
 
 
