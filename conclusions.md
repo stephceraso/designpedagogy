@@ -21,10 +21,10 @@ We think there is value in connecting the dots between the historical intentions
 
 Assemble your own frame-for-work by surveying the landscape of affordances and constraints in your class and on campus, but make sure it facilitates interaction that is in some ways high impact, collaborative, DIY, and materially-engaged. Developing frames-for-work involve different configurations of what we are calling the four features of design pedagogy. While it is tempting to say that our classes will benefit if we simply pick and choose from a couple of these features to inform new pedagogical practices, we do not think that is the case. Rather, in order to acheive a rich, well-designed learning environment, all four features must be integrated into the course's design. Here are some possibiltiies to consider when constructing frames-for-work: 
 
-●	Involve campus partners, community partners, or commercial partners, either by design or through students’ own initiative.
-●	Craft projects and assignments in ways that give students a chance to interact with each other in a variety of arrangements and modes.
-●	Allow for and expect that students will have to seek out knowledge in order to complete their project -- that it will not all come from you or the assigned readings or even from research in the library -- and communicate these expectations.
-●	Make sure that writing is not the only activity in a writing or rhetoric class; students should also be drawing, taking pictures, recording/editing audio and video, arranging and experimenting with materials, building, coding, and so on.
+-Involve campus partners, community partners, or commercial partners, either by design or through students’ own initiative.
+-Craft projects and assignments in ways that give students a chance to interact with each other in a variety of arrangements and modes.
+-Allow for and expect that students will have to seek out knowledge in order to complete their project -- that it will not all come from you or the assigned readings or even from research in the library -- and communicate these expectations.
+-Make sure that writing is not the only activity in a writing or rhetoric class; students should also be drawing, taking pictures, recording/editing audio and video, arranging and experimenting with materials, building, coding, and so on.
 
 ---
 
