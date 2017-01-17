@@ -18,6 +18,8 @@ Practice.” _Design Issues_ 2.1 (1985): 5-21. [not sure if he counts as a rheto
 
 Cooper, Marilyn. “The Ecology of Writing.” _College English_ 48.4 (1986): 364–75.
 
+de Vise, Daniel. "Quiet Revolution in Teaching Science is Earning UMBC Extra Credit." The Washington Post. 20 March 2012. Web. 8 Aug. 2016. <https://www.washingtonpost.com/local/education/quiet-revolution-in-teaching-science-is-earning-umbc-extra-credit/2012/03/08/gIQArmoYQS_story.html?utm_term=.6c2f1c0b8705/> 
+
 Dobrin, Sidney I. _Postcomposition_. Carbondale, IL: Southern Illinois UP, 2011. [not sure if this is the citation you were referring to]
 
 Farson in APJ?
@@ -67,6 +69,8 @@ Sheridan, David. “Fabricating Consent: Three-dimensional Objects as Rhetorical
 _Computers and Composition_ 24.4 (2010): 249-265.
 
 ———. “A Maker Mentality Toward Writing.” _Digital Rhetoric Collaborative_. 28 March 2016. Web. 7 April 2016. <http://www.digitalrhetoriccollaborative.org/2016/03/28/ a-maker-mentality-toward-writing/>. [did we want both of these citations?]
+
+Shivers-McNair, Ann. "What Can We Learn about Writing and Rhetoric from a Makerspace?" _Digital Rhetoric Collaborative_. 17 March 2016. Web. 1 Jan. 2017. <http://www.digitalrhetoriccollaborative.org/2016/03/17/what-can-we-learn-about-writing-and-rhetoric-from-a-makerspace/>. 
 
 Syverson, Margaret A. _The Wealth of Reality: An Ecology of Composition_. Carbondale: Southern Illinois UP, 1999.
 
