@@ -8,8 +8,8 @@ title: Works Cited
 <p>Arola, Kristin L, Jennifer Sheppard, and Cheryl E. Ball. _Writer/Designer: A Guide to Making
 Multimodal Projects_. Boston: Bedford/St. Martins, 2014.</p>
 
-<p>Bass, Randall. “Disrupting Ourselves: The Problem of Learning in Higher Education.” _Educause
-Review_. 21 March 2012. Web. 7 Feb. 2014.<http://er.educause.edu/articles/2012/3/disrupting-ourselves-the-problem-of-learning-in-higher-education><p>
+<p>Bass, Randall. “Disrupting Ourselves: The Problem of Learning in Higher Education.” *Educause
+Review*. 21 March 2012. Web. 7 Feb. 2014. <http://er.educause.edu/articles/2012/3/disrupting-ourselves-the-problem-of-learning-in-higher-education><p>
 
 <p>Boyle, Casey. “The Rhetorical Question Concerning Glitch.” _Computers and Composition_ 35 (March 2015): 12-29.</p>
 
