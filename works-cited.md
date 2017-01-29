@@ -31,8 +31,6 @@ Pittsburgh: University of Pittsburgh Press, 2007.</p>
 
 <p>Hetland, Lois, Ellen Winner, Shirley Veenema, and Kimberly M. Sheridan. _Studio Thinking: The Real Benefits of Visual Arts Education. New York: Teachers College Press, 2007.</p>
 
-<p>Kaufman?</p>
-
 <p>Kittle, Peter. "Writing as Making; Making as Writing." Conference on College Composition and Communication. Houston, Texas. April 6-9 2016.</p>
 
 <p>Lange, Alexandra. “The Innovation Campus: Building Better Ideas.” _The New York Times_. 4
