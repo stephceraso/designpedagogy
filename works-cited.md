@@ -26,6 +26,8 @@ Review*. 21 March 2012. Web. 7 Feb. 2014. <http://er.educause.edu/articles/2012/
 <p>Haas, Christina. _Writing Technology: Studies on the Materiality of Literacy_. Mahwah: Lawrence
 Erlbaum,1996.</p>
 
+<p>Hawhee, Debra. _Bodily Arts: Rhetoric and Athletics in Ancient Greece._ Austin: University of Texas Press, 2004.</p>
+
 <p> Hawk, Byron. _A Counter-History of Composition: Toward Methodologies of Complexity_.
 Pittsburgh: University of Pittsburgh Press, 2007.</p>
 
