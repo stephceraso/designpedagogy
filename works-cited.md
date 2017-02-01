@@ -21,7 +21,7 @@ Review*. 21 March 2012. Web. 7 Feb. 2014. <http://er.educause.edu/articles/2012/
 
 <p>Farson, Richard. "The Power of Design." Ann Pendleton-Jullian's book Four (+1) Studios: 7 Papers and an Epilogue, published in 2010, designed by (by which I think they mean edited and printed?) Soulellis Studios, and made in Charleston, South Carolina: 57.</p> 
 
-<p>Flemming, David. "The Very Idea of a 'Progymnasmata.'" _Rhetoric Review_ 22.2 (2003):105-120.</p>
+<p>Fleming, David. "The Very Idea of a 'Progymnasmata.'" _Rhetoric Review_ 22.2 (2003):105-120.</p>
 
 <p>Haas, Christina. _Writing Technology: Studies on the Materiality of Literacy_. Mahwah: Lawrence
 Erlbaum,1996.</p>
