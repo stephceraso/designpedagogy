@@ -17,9 +17,11 @@ Review*. 21 March 2012. Web. 7 Feb. 2014. <http://er.educause.edu/articles/2012/
 
 <p>de Vise, Daniel. "Quiet Revolution in Teaching Science is Earning UMBC Extra Credit." The Washington Post. 20 March 2012. Web. 8 Aug. 2016. <https://www.washingtonpost.com/local/education/quiet-revolution-in-teaching-science-is-earning-umbc-extra-credit/2012/03/08/gIQArmoYQS_story.html?utm_term=.b9adedf6c7f2/></p>
 
+<p>Dhillon, Arjun, David Goldston, Matthew Pavesich, and Francis Slakey. “Studio Collaborative.” 1-3. https://docs.google.com/document/d/1AaoMhPMIAv_tR31hl9YSLW7mwKUJP0TNGbd0A--w7Hc/edit?usp=sharing.</p>
+
 <p>Dobrin, Sidney I. _Postcomposition_. Carbondale, IL: Southern Illinois UP, 2011.</p>
 
-<p>Farson, Richard. "The Power of Design." Ann Pendleton-Jullian's book Four (+1) Studios: 7 Papers and an Epilogue, published in 2010, designed by (by which I think they mean edited and printed?) Soulellis Studios, and made in Charleston, South Carolina: 57.</p> 
+<p>Farson, Richard. "The Power of Design." Ann Pendleton-Jullian. _Four (+1) Studios: 7 Papers and an Epilogue_. Charleston, SC: Soulellis Studios, 2010: 57.
 
 <p>Fleming, David. "The Very Idea of a 'Progymnasmata.'" _Rhetoric Review_ 22.2 (2003):105-120.</p>
 
