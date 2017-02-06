@@ -18,19 +18,52 @@ body {
 }
 
 html {
-  font: 16px/1.5 "Helvetica", sans-serif;
-  color: rgba(0,0,0,.75);
+  background-color: hsla(200,90%,10%,.9);
+  background-image: url('i/ethicslab.jpg');
+  background-size: cover;
+  background-attachment:fixed;
+  background-position: 0 50%;
+  background-repeat: no-repeat;
+  font: 16px/1.5 "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
 
-h2 {
+body {
+  font-weight: 300;
+  color: rgba(0,0,0,.825);
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 300;
+}
+
+h2,
+h3 {
   margin-bottom:0;
 }
-h2 + p {
+
+h3 {
+  font-size: 1rem;
+}
+
+h2 + p,
+h3 + p {
   margin-top: 1rem;
 }
 
-p + h2 {
-  margin-top: 2rem;
+p + h2,
+p + h3 {
+  margin-top: 3rem;
+  line-height: 1.25;
+}
+
+hr {
+  border:0;
+  height: 3px;
+  background: rgba(0,0,0,0.1);
+  width: 30px;
+  margin: 3rem auto;
 }
 
 figure.quote {
@@ -56,63 +89,68 @@ figure.quote {
 }
 
 header {
-  border-bottom: 1px solid rgba(0,0,0,.075);
-  padding: .5rem 0;
+  background-color: hsla(210,70%, 7%,.875);
+  padding: 2rem 0 0;
 }
 
 header h1 {
   font-size: 1rem;
+  margin:0;
+}
+
+header a,
+header a:link {
+  text-decoration:none;
+  color: white;
+  color: rgba(255,255,255,.9);
 }
 
 nav {
   font-size: .8rem;
-  padding: 1rem 0;
-}
-
-nav a {
-  text-decoration:none;
-  font-weight: bold;
+  padding: 1rem 0 2rem;
+  background-color: hsla(210,70%, 7%,.875);
 }
 
 nav a + a:before {
   content: " / ";
   padding: 0 .25rem;
-  color: rgba(0,0,0,0.2);
+  color: #ccc;
+  color: rgba(255,255,255,.325);
+
+}
+
+nav a {
+  text-decoration:none;
 }
 
 nav a:link,
 nav a:visited {
-  color: rgba(0,0,0,.5);
+  color: white;
+  color: rgba(255,255,255,.9);
 }
 
 nav a:hover,
 nav a:focus {
-  color: rgba(0,0,0,0.7);
+  color: white;
+  color: rgba(255,255,255,.9);
 }
 
 nav a:active {
-  color: rgba(0,0,0,.9);
+  color: white;
+  color: rgba(255,255,255,.9);
 }
 
 
 #main {
-  max-width: 800px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding: 40px 60px;
+  background: white;
+  background: rgba(255,255,255,.95);
 }
 
 #banner,
 #global-navigation {
-  padding-left: 40px;
-  padding-right: 40px;
-}
-
-.home #global-navigation {
-  background-image: url('i/ethicslab.jpg');
-  background-size: cover;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  min-height: 90vh;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
 /* Utility Classes */
@@ -126,4 +164,12 @@ nav a:active {
   padding: 0;
   position: absolute;
   width: 1px;
+}
+
+@media screen and (min-width: 800px) {
+
+body {
+  margin-left: 30%;
+}
+
 }
