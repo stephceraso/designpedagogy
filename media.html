@@ -1,0 +1,11 @@
+---
+layout: page
+title: All Media
+---
+
+{% for record in site.data.media %}
+<li>
+  <h2>{{ record.name }} ({{ record.type }})</h2>
+  <p>{{ record.caption }}</p>
+</li>
+{% endfor %}
