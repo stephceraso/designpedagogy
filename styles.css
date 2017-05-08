@@ -183,13 +183,18 @@ nav a:active {
   margin:0;
   padding:0;
   display:flex;
-
-  .description {
-    display:none;
-  }
-
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
+.gallery li {
+  display:block;
+  width: 30%;
+}
+.gallery .description {
+  display:none;
+}
 
 @media screen and (min-width: 800px) {
 
