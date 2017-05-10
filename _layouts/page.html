@@ -11,7 +11,7 @@ layout: default
     <li>
       {{ record.type }} | {{ record.name }}
   {% if record.type == 'Image' %}
-  <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.jpg" alt="">
+  <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
 {% endif %}
   {% if record.type == 'Video' %}
     <video src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}." alt=""></video>
