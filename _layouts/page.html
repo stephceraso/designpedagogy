@@ -9,7 +9,6 @@ layout: default
   {% endcapture %}
   {% if tags contains page.tag %}
     <li>
-      {{ record.type }} | {{ record.name }}
   {% if record.type == 'Image' %}
   <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
 {% endif %}
