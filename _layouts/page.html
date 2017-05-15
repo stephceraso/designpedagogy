@@ -8,15 +8,17 @@ layout: default
     {{ record.tag1 }},{{ record.tag2 }},{{ record.tag3 }}
   {% endcapture %}
   {% if tags contains page.tag %}
-    <li>
+
   {% if record.type == 'Image' %}
-  <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
+      <i class="fa fa-picture-o"></i>
+      <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
 {% endif %}
   {% if record.type == 'Video' %}
-    <video src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}." alt=""></video>
+    <i class="fa fa-video-camera" aria-hidden="true"></i>
+    <video controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav" alt=""></video>
   {% endif %}
   {% if record.type == 'Audio' %}
-  <audio src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav" alt=""></audio>
+  <i class="fa fa-headphones" aria-hidden="true"></i><audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
   {% endif %}
   <div class="description">
   <p><strong>{{ record.caption }}</strong></p>

@@ -196,6 +196,19 @@ nav a:active {
   display:none;
 }
 
+.fa {
+  display:inline-block;
+  color: white;
+  color: hsla(0,100%,100%,.9);
+  background: hsla(0,0%,0%,.75);
+  border-radius: 50%;
+  font-size: 2rem;
+  width: 4rem;
+  height: 4rem;
+  line-height: 2;
+  text-align: center;
+}
+
 @media screen and (min-width: 800px) {
 
 body {
