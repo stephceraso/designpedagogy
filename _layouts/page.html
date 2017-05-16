@@ -2,31 +2,69 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<ul id="facet-media" class="gallery">
-{% for record in site.data.media %}
-  {% capture tags %}
-    {{ record.tag1 }},{{ record.tag2 }},{{ record.tag3 }}
-  {% endcapture %}
-  {% if tags contains page.tag %}
+<div id="facet-media" class="gallery">
+  {% for record in site.data.media %}
+    {% capture tags %}
+      {{ record.tag1 }},{{ record.tag2 }},{{ record.tag3 }}
+    {% endcapture %}
 
-  {% if record.type == 'Image' %}
-      <i class="fa fa-picture-o"></i>
+    {% capture mediafile %}
+    {% if record.type == 'Image' %}
       <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
-{% endif %}
-  {% if record.type == 'Video' %}
-    <i class="fa fa-video-camera" aria-hidden="true"></i>
-    <video controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav" alt=""></video>
+    {% endif %}
+    {% if record.type == 'Video' %}
+      <video controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav" alt=""></video>
+    {% endif %}
+    {% if record.type == 'Audio' %}
+      <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
+    {% endif %}
+    {% endcapture %}
+
+    {% capture mediaicon %}
+      {% if record.type == 'Image' %}
+        <i class="fa fa-picture-o"></i>
+      {% endif %}
+      {% if record.type == 'Video' %}
+        <i class="fa fa-video-camera" aria-hidden="true"></i>
+      {% endif %}
+      {% if record.type == 'Audio' %}
+      <i class="fa fa-headphones" aria-hidden="true"></i>
+      {% endif %}
+    {% endcapture %}
+
+  {% if tags contains page.tag %}
+    {{ mediaicon }}
+    <div class="content">
+      {{ mediafile }}
+      <div class="description">
+      <p><strong>{{ record.caption }}</strong></p>
+      <p>{{ record.alternative_text }}</p>
+      </div>
+    </div>
   {% endif %}
-  {% if record.type == 'Audio' %}
-  <i class="fa fa-headphones" aria-hidden="true"></i><audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
-  {% endif %}
-  <div class="description">
-  <p><strong>{{ record.caption }}</strong></p>
-  <p>{{ record.alternative_text }}</p>
-  </div>
-  </li>
-{% endif %}
 {% endfor %}
-</ul>
+</div>
 
 {{ content }}
+
+<script>
+function isWhitespace(node) {
+    return node.nodeType == 3 && /^\s*$/.test(node.data);
+}
+
+var items = document.querySelectorAll('#facet-media i');
+
+for (var i=0;i<items.length;i++) {
+  items[i].addEventListener('click', function() {
+    next = this.nextSibling;
+    if (next && isWhitespace(next)) {
+        next = next.nextSibling;
+    }
+    if (next && next.nodeName == "DIV") {
+        contents = next.innerHTML;
+        vex.dialog.alert({content: '',unsafeMessage: contents});
+    }
+  });
+}
+
+</script>
