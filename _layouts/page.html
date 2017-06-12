@@ -15,6 +15,9 @@ layout: default
     {% if record.type == 'Audio' %}
       <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
     {% endif %}
+    {% if record.type == 'Text' %}
+      <a href="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf">{{ record.caption }}</a>
+    {% endif %}
     {% endcapture %}
 
     {% capture mediaicon %}
@@ -23,6 +26,9 @@ layout: default
       {% endif %}
       {% if record.type == 'Audio' %}
       <i class="fa fa-headphones" aria-hidden="true"></i>
+      {% endif %}
+      {% if record.type == 'Text' %}
+      <i class="fa fa-file-pdf-o"></i>
       {% endif %}
     {% endcapture %}
 
