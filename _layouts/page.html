@@ -12,9 +12,6 @@ layout: default
     {% if record.type == 'Image' %}
       <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
     {% endif %}
-    {% if record.type == 'Video' %}
-      <video controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav" alt=""></video>
-    {% endif %}
     {% if record.type == 'Audio' %}
       <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
     {% endif %}
