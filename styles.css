@@ -222,10 +222,16 @@ nav a:active {
   display:none;
 }
 
+#works-cited p {
+  margin-left: 2rem;
+  text-indent: -2rem;
+}
+
+
 @media screen and (min-width: 800px) {
 
 body {
-  max-width: 780px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
