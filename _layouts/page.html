@@ -9,11 +9,9 @@ layout: default
     {% endcapture %}
 
     {% capture mediafile %}
-
     {% if record.type == 'Image' %}
-      <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
+      <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.jpg" alt="">
     {% endif %}
-
     {% if record.type == 'Audio' %}
       <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
     {% endif %}
