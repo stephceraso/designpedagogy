@@ -9,9 +9,11 @@ layout: default
     {% endcapture %}
 
     {% capture mediafile %}
+
     {% if record.type == 'Image' %}
       <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}_small.jpg" alt="">
     {% endif %}
+
     {% if record.type == 'Audio' %}
       <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
     {% endif %}
@@ -20,9 +22,6 @@ layout: default
     {% capture mediaicon %}
       {% if record.type == 'Image' %}
         <i class="fa fa-picture-o"></i>
-      {% endif %}
-      {% if record.type == 'Video' %}
-        <i class="fa fa-video-camera" aria-hidden="true"></i>
       {% endif %}
       {% if record.type == 'Audio' %}
       <i class="fa fa-headphones" aria-hidden="true"></i>
