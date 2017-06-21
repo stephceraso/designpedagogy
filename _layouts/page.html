@@ -16,6 +16,8 @@ layout: default
       <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
     {% endif %}
     {% if record.type == 'Text' %}
+    <object data="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf" type="application/pdf" width="100%" height="700px"></object>
+
       <a href="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf">{{ record.caption }}</a>
     {% endif %}
     {% endcapture %}
