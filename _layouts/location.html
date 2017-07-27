@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-{% if page.d3 %}
-  <div id="graphic"></div>
-{% endif %}
-
 <h1>{{ page.title }}</h1>
-<div class="content">
-  {{ content }}
+<p><strong>{{ page.institution }}</strong>
+{% if page.url %} · <a href="{{ page.program_url }}">Program Website</a>
+{% endif %}
+</p>
+<div class="summary">
+{{ content }}
 </div>
-
-<div id="facet-media" class="gallery">
+<ul id="facet-media" class="gallery-list">
   {% for record in site.data.media %}
+  {% if record.location == page.location %}
     {% capture tags %}
       {{ record.tag1 }},{{ record.tag2 }},{{ record.tag3 }}
     {% endcapture %}
@@ -41,39 +41,33 @@ layout: default
       <i class="fa fa-file-pdf-o"></i>
       {% endif %}
     {% endcapture %}
+    <li>
+      {{ mediaicon }} <strong>{{ record.caption }}</strong>
 
-  {% if tags contains page.tag %}
-    {{ mediaicon }}
     <div class="content">
       {{ mediafile }}
       <div class="description">
-      <p><strong>{{ record.caption }}</strong></p>
+        <em class="eyebrow">{{ tags }}</em>
       <p>{{ record.alternative_text }}</p>
       </div>
     </div>
+    </li>
   {% endif %}
 {% endfor %}
-</div>
-
+</ul>
 
 <script>
 function isWhitespace(node) {
     return node.nodeType == 3 && /^\s*$/.test(node.data);
 }
 
-var items = document.querySelectorAll('#facet-media i');
+var items = document.querySelectorAll('#facet-media li');
 
 for (var i=0;i<items.length;i++) {
   items[i].addEventListener('click', function() {
-    next = this.nextSibling;
-    if (next && isWhitespace(next)) {
-        next = next.nextSibling;
-    }
-    if (next && next.nodeName == "DIV") {
-        contents = next.innerHTML;
-        vex.dialog.alert({content: '',unsafeMessage: contents});
-    }
-  });
+      contents = this.innerHTML;
+      vex.dialog.alert({content: '',unsafeMessage: contents});
+    });
 }
 
 </script>

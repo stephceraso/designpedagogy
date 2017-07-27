@@ -4,6 +4,9 @@
 <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 <script src="https://use.fontawesome.com/0f21921284.js"></script>
 <script src="{{ site.baseurl }}/vex/js/vex.combined.min.js"></script>
+{% if page.d3 %}
+<script src="http://d3js.org/d3.v3.min.js"></script>
+{% endif %}
 <script>vex.defaultOptions.className = 'vex-theme-os'</script>
 <link rel="stylesheet" href="{{ site.baseurl }}/vex/css/vex.css" />
 <link rel="stylesheet" href="{{ site.baseurl }}/vex/css/vex-theme-os.css" />
@@ -22,6 +25,7 @@
   <a id="link-ecological" href="{{ site.baseurl }}/ecological/">Ecological</a>
   <a id="link-conclusions" href="{{ site.baseurl }}/conclusions/">Conclusions</a>
   <a id="link-works-cited" href="{{ site.baseurl }}/works-cited">Works Cited</a>
+  <a id="link-sites" href="{{ site.baseurl }}/sites">Sites</a>
 </nav>
 <main role="main" id="main">
 {{ content }}
