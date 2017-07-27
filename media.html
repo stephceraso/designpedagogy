@@ -3,7 +3,12 @@ layout: page
 title: All Media
 ---
 
-{% for record in site.data.media %}
+{% assign images = site.data.media | where: "type","Image" %}
+{% assign audios = site.data.media | where: "type","Audio" %}
+{% assign texts = site.data.media | where: "type","Text" %}
+
+<h2>Images</h2>
+{% for record in images %}
 <figure>
   {% if record.type == 'Image' %}
   <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.jpg" alt="">
@@ -14,3 +19,27 @@ title: All Media
   </figcaption>
 </figure>
 {% endfor %}
+
+<h2>Audio</h2>
+{% for record in audios %}
+<figure>
+  <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
+  <figcaption>
+    <p><strong>{{ record.caption }}</strong></p>
+  <p>{{ record.alternativetext }}</p>
+  </figcaption>
+</figure>
+{% endfor %}
+
+<h2>Texts</h2>
+{% for record in texts %}
+<figure>
+    <object data="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf" type="application/pdf" width="100%" height="700px"></object>
+  <figcaption>
+    <p><strong>{{ record.caption }}</strong></p>
+  <p>{{ record.alternativetext }}</p>
+  </figcaption>
+</figure>
+{% endfor %}
+
+

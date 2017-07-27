@@ -9,37 +9,18 @@ layout: default
 <div class="summary">
 {{ content }}
 </div>
-<ul id="facet-media" class="gallery-list">
-  {% for record in site.data.media %}
-  {% if record.location == page.location %}
-    {% capture tags %}
-      {{ record.tag1 }},{{ record.tag2 }},{{ record.tag3 }}
-    {% endcapture %}
+
+{% assign location_media = site.data.media | where: "location", page.location %}
+{% assign images = location_media | where: "type","Image" %}
+{% assign audios = location_media | where: "type","Audio" %}
+{% assign texts = location_media | where: "type","Text" %}
+<div id="facet-media">
+<h2>Images</h2>
+<ul class="media-list">
+  {% for record in images %}
 
     {% capture mediafile %}
-    {% if record.type == 'Image' %}
       <img src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.jpg" alt="">
-    {% endif %}
-    {% if record.type == 'Audio' %}
-      <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
-    {% endif %}
-    {% if record.type == 'Text' %}
-    <object data="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf" type="application/pdf" width="100%" height="700px"></object>
-
-      <a href="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf">{{ record.caption }}</a>
-    {% endif %}
-    {% endcapture %}
-
-    {% capture mediaicon %}
-      {% if record.type == 'Image' %}
-        <i class="fa fa-picture-o"></i>
-      {% endif %}
-      {% if record.type == 'Audio' %}
-      <i class="fa fa-headphones" aria-hidden="true"></i>
-      {% endif %}
-      {% if record.type == 'Text' %}
-      <i class="fa fa-file-pdf-o"></i>
-      {% endif %}
     {% endcapture %}
     <li>
       {{ mediaicon }} <strong>{{ record.caption }}</strong>
@@ -52,9 +33,52 @@ layout: default
       </div>
     </div>
     </li>
-  {% endif %}
 {% endfor %}
 </ul>
+
+<h2>Audio</h2>
+<ul class="media-list">
+  {% for record in audios %}
+    {% capture mediafile %}
+      <audio controls src="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.wav"></audio>
+    {% endcapture %}
+    <li>
+      {{ mediaicon }} <strong>{{ record.caption }}</strong>
+
+    <div class="content">
+      {{ mediafile }}
+      <div class="description">
+        <em class="eyebrow">{{ tags }}</em>
+      <p>{{ record.alternative_text }}</p>
+      </div>
+    </div>
+    </li>
+{% endfor %}
+</ul>
+
+<h2>Texts</h2>
+<ul class="media-list">
+  {% for record in images %}
+    {% capture mediafile %}
+    <object data="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf" type="application/pdf" width="100%" height="700px"></object>
+      <a href="{{ site.baseurl }}/assets/{{ record.name | remove: '/' | replace: ':','_' | replace: ' ','_' }}.pdf">{{ record.caption }}</a>
+    {% endcapture %}
+    <li>
+      {{ mediaicon }} <strong>{{ record.caption }}</strong>
+
+    <div class="content">
+      {{ mediafile }}
+      <div class="description">
+        <em class="eyebrow">{{ tags }}</em>
+      <p>{{ record.alternative_text }}</p>
+      </div>
+    </div>
+    </li>
+{% endfor %}
+</ul>
+
+</div>
+
 
 <script>
 function isWhitespace(node) {

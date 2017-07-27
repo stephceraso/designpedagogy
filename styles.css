@@ -225,7 +225,8 @@ header a:link {
 }
 
 .gallery .content,
-.gallery-list .content {
+.gallery-list .content,
+.media-list .content {
   display:none;
 }
 
@@ -276,12 +277,13 @@ header a:link {
     zoom: 1;
   }
   
-  main > .content {
+  main > .content,
+  main > .summary {
     float:left;
     width: 60%;
   }
 
-  .gallery {
+  .gallery,#facet-media {
     float:right;
     width: 38%;
   }
