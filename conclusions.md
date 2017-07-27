@@ -32,12 +32,12 @@ We think there is value in connecting the dots between the historical intentions
 
 Many depictions of the design process have begun to appear in higher education contexts, and we think it is useful to consider a few of the examples we have encountered during the course of our research. Pictured below are three interesting models of design pedagogy from recent conferences. The first picture is a powerpoint slide from Peter Kittle's presentation at the 2016 Conference on College Composition and Communication. Kittle attempts to visualize the steps of design by mapping the design process directly onto the conventional steps associated with the writing process. We appreciate this effort to begin to “design-ify” process, which is necessary and important work. Yet, this set of steps still represents a more or less linear, chronological sequence. In other words, renaming the steps in a traditional process model does not transform that model, and therefore it still represents what postprocess theories critique about traditional process. What we find most valuable about Kittle's visualization, however, is his attention to "release" and "community," which the other two models pictured below do not consider. In this sense Kittle offers a model that is more high impact than other representations we have seen.
 
-![screenshot1]({{ site.baseurl }}/assets/conclusion1.jpg)
+![screenshot1]({{ site.baseurl }}/assets/conclusion3.jpg)
 
 The next two photos are of Marlo Ransdell's slides from her 2016 presentation at the Association of American Colleges & Universities Conference. One depicts writing processes and the other visualizes the design thinking process. In some ways, these slides make improvements on the process represented in Kittle's presentation. In Ransdell's slides, process is represented as ambiguous, plural, and -- maybe most importantly -- recursive. These images more accurately show that students' individual processes (the “how I  work”) will not emerge until they are well into the process of developing projects in collaboration with team members. Much like Arjun Dhillon's decription of "the Squiggle," in these two slides process is depicted as something that we must attempt to articulate, but which we can never fully know ahead of time.
 
+![screenshot1]({{ site.baseurl }}/assets/conclusion1.jpg)
 ![screenshot1]({{ site.baseurl }}/assets/conclusion2.jpg)
-![screenshot1]({{ site.baseurl }}/assets/conclusion3.jpg)
 
 Engaging with students in process-talk but in a design-savvy, plural way must play a salient role in design pedagogy. Adapting or revising "designified" process models similar to the ones featured above will provide students with some initial structure while also giving them the freedom to figure out ways of working and collaborating throughout the development of their projects.
 
