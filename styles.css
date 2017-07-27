@@ -189,6 +189,13 @@ header a:link {
   margin:0;
 }
 
+footer {
+  display:block;
+  background: #333;
+  padding: 30px;
+  color: white;
+}
+
 /* Utility Classes */
 .audible {
   border: 0;
@@ -267,7 +274,7 @@ header a:link {
 @media screen and (min-width: 700px) {
 
   body {
-    max-width: 1200px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
   }
