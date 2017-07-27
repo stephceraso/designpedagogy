@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Conclusions
 ---
+
+# Conclusions
 
 Based on our observations of four studios, we believe that design pedagogy represents one productive future of the current postpedagogical moment. We believe so, in part, because design pedagogy speaks to a number of recent and pressing concerns in rhetoric and composition—like public engagement, collaborative practices, and materiality—but also because it promises to re-connect us to valuable but neglected traditions.
 
