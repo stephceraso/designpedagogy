@@ -306,14 +306,128 @@ footer {
   width: 700px;
 }
 
+/* Homepage specific overrides */
+
+.home body {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  background-color: rgba(0,0,0,0.25);
+}
+
+.home #global-navigation {
+  font-size: 1rem;
+  background:transparent;
+  display:flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
+  justify-content: space-around;
+}
+
+.home #global-navigation a {
+  display:block;
+  text-align: left;
+  margin: 1rem 0;
+}
+
+.home #global-navigation span {
+  margin: 1rem 0;
+}
+
+.home #global-navigation span:before,
+.home #global-navigation span:after,
+.home #global-navigation a:before {
+  display:none;
+  margin:0;
+  padding:0;
+}
+
+.home main {
+  display:none;
+}
+
 @media screen and (min-width: 700px) {
 
   body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
+    background: transparent;
   }
-  
+
+  .home #global-navigation {
+    position:relative;
+    height: 70vh;
+    min-height: 600px;
+    background: transparent;
+  }
+
+  .home #global-navigation a {
+    background-color: blue;
+  background: rgba(140,180,180,.875);
+    border-radius: 50%;
+    display:flex;
+    position:absolute;
+    height: 100px;
+    width: 100px;
+    padding: 4rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgba(255,255,255,0.925);
+    transition: all .5s ease-in-out;
+  }
+
+  .home #global-navigation a:hover {
+    transform: scale(1.2);
+    background: rgba(140,180,180,1);
+  }
+
+  .home #global-navigation #link-intro {
+    top: 20%;
+  }
+
+  .home #global-navigation #link-frames-for-work {
+    top: 2%;
+    left: 27%;
+    width: 200px;
+    height: 200px;
+    padding: 2rem;
+  }
+
+  .home #global-navigation #link-high-impact {
+    top: 45%;
+    left: 44%;
+    width: 180px;
+    height: 180px;
+    padding:0;
+  }
+  .home #global-navigation #link-collaboration {
+    bottom: 20%;
+    left: 12%;
+    width: 180px;
+    height: 180px;
+  }
+  .home #global-navigation #link-diy-learning {
+    top: 8%;
+    left: 60%;
+    width: 180px;
+    height: 180px;
+  }
+
+  .home #global-navigation #link-ecological {
+    bottom: 15rem;
+    right: 2rem;
+    width: 150px;
+    height: 150px;
+  }
+
+  .home #link-conclusions {
+    bottom: 2rem;
+    right: 10rem;
+  }
+
   main {
     overflow:hidden;
     zoom: 1;
