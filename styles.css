@@ -319,6 +319,11 @@ footer {
     zoom: 1;
   }
   
+  .introduction main,
+  .conclusions main {
+    padding-right: 40% !important;
+  }
+
   main > .content,
   main > .summary {
     float:left;
