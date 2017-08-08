@@ -223,11 +223,22 @@ footer {
   display:block;
 }
 
+.frames-for-work #facet-media {
+  float:none;
+  width: 100%;
+}
+
+.frames-for-work .gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 .frames-for-work .gallery:after {
   content: ' ';
   width: 100px;
   height: 3px;
-  margin: 0 auto 3rem;
+  margin: 5rem auto 5rem;
   background: rgba(0,0,0,0.25);
 }
 
@@ -240,7 +251,8 @@ footer {
 
 .frames-for-work .gallery .content {
   display:block;
-  margin-bottom: 3rem;
+  width: 49%;
+  margin-bottom: 1rem;
 }
 
 .fa {
@@ -290,6 +302,18 @@ footer {
     width: 60%;
   }
 
+  main > .content p:first-child {
+    margin-top:0;
+  }
+  
+  .frames-for-work main > .content {
+    float:none;
+    width: 100%;
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+  }
+  
   .gallery,#facet-media {
     float:right;
     width: 38%;

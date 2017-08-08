@@ -6,9 +6,6 @@ layout: default
 {% endif %}
 
 <h1>{{ page.title }}</h1>
-<div class="content">
-  {{ content }}
-</div>
 
 <div id="facet-media" class="gallery">
   {% for record in site.data.media %}
@@ -55,6 +52,9 @@ layout: default
 {% endfor %}
 </div>
 
+<div class="content">
+  {{ content }}
+</div>
 
 <script>
 function isWhitespace(node) {
