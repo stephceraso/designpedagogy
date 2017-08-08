@@ -30,6 +30,7 @@ html {
 body {
   font-weight: 300;
   color: rgba(0,0,0,.825);
+  position:relative;
 }
 
 img {
@@ -115,41 +116,63 @@ header a:link {
   color: rgba(255,255,255,.9);
 }
 
-#global-navigation {
+#global-navigation,
+#courtesy-navigation{
   font-size: .8rem;
   padding: 1rem 0 2rem;
   background-color: hsla(210,70%, 7%,.875);
-}
-
-#global-navigation  a + a:before {
-  content: " / ";
-  padding: 0 .25rem;
   color: #ccc;
   color: rgba(255,255,255,.325);
 
 }
 
-#global-navigation  a {
+#global-navigation  a,
+#courtesy-navigation a {
   text-decoration:none;
 }
 
 #global-navigation  a:link,
-#global-navigation  a:visited {
+#global-navigation  a:visited,
+#courtesy-navigation a:link,
+#courtesy-navigation a:visited {
   color: white;
   color: rgba(255,255,255,.9);
 }
 
 #global-navigation  a:hover,
-#global-navigation  a:focus {
+#global-navigation  a:focus,
+#courtesy-navigation a:hover,
+#courtesy-navigation a:focus {
   color: white;
   color: rgba(255,255,255,.9);
 }
 
-#global-navigation  a:active {
+#global-navigation  a:active,
+#courtesy-navigation a:active {
   color: white;
   color: rgba(255,255,255,.9);
 }
 
+#global-navigation span:before,
+#global-navigation span:after {
+  content: " | ";
+  padding: 0 .5rem;
+}
+
+#global-navigation span a + a:before {
+  content: " · ";
+  padding: 0 .125rem;
+  color: #ccc;
+  color: rgba(255,255,255,.325);
+}
+
+#courtesy-navigation {
+  position:absolute;
+  font-size: .7rem;
+  top:0;
+  right:30px;
+  background-color: transparent;
+}
 
 #main {
   padding: 30px;
