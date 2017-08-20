@@ -246,6 +246,11 @@ footer {
   display:block;
 }
 
+.gallery #featured {
+  display:block;
+  margin-bottom: 3rem;
+}
+
 .frames-for-work #facet-media {
   float:none;
   width: 100%;

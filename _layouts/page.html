@@ -8,6 +8,12 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <div id="facet-media" class="gallery">
+  {% if page.tag == 'DIY' %}
+    <div id="featured">
+      <a href="/assets/1_Georgetown_EthicsLab_https_ethicslab.georgetown.edu_Dhillon_High_Impact_DIY.jpg"><img src="/assets/1_Georgetown_EthicsLab_https_ethicslab.georgetown.edu_Dhillon_High_Impact_DIY.jpg" alt=""></a>
+      <strong>"The Squiggle"</strong>
+    </div>
+  {% endif %}
   {% for record in site.data.media %}
     {% capture tags %}
       {{ record.tag1 }},{{ record.tag2 }},{{ record.tag3 }}
@@ -39,7 +45,7 @@ layout: default
       {% endif %}
     {% endcapture %}
 
-  {% if tags contains page.tag %}
+    {% if tags contains page.tag %}
     {{ mediaicon }}
     <div class="content">
       {{ mediafile }}
