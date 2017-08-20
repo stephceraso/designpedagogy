@@ -44,8 +44,10 @@ layout: default
     <div class="content">
       {{ mediafile }}
       <div class="description">
-      <p><strong>{{ record.caption }}</strong></p>
-      <p>{{ record.alternative_text }}</p>
+        {% if record.type != 'Text' %}
+        <p>{{ record.caption }}</p>
+        {% endif %}
+        <p>{{ record.alternative_text }}</p>
       </div>
     </div>
   {% endif %}
